@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1604777027 source:f:\akostas\a_school\diadikastikos_programatismos\c_lab\project\com.c
+	<stdio.h>
+	"genlib.h"
+	"simpio.h"
+
+1606129169 source:f:\akostas\a_school\diadikastikos_programatismos\c_lab\project\a28f4.c
+	<stdio.h>
+	"genlib.h"
+	"stdio.h"
+	<math.h>
+
+1607943873 source:f:\akostas\a_school\diadikastikos_programatismos\c_lab\project\untitled1.c
+	<stdio.h>
+	"genlib.h"
+	"simpio.h"
+
+1606869959 source:f:\akostas\a_school\diadikastikos_programatismos\c_lab\project\untitled2.c
+	<stdio.h>
+	"genlib.h"
+	"simpio.h"
+	<math.h>
+
+1607958511 source:f:\akostas\a_school\diadikastikos_programatismos\c_lab\f6\a9f6.c
+	<stdio.h>
+	"genlib.h"
+	"simpio.h"
+
+1607963870 source:f:\akostas\a_school\diadikastikos_programatismos\c_lab\f6\a2f6.c
+	<stdio.h>
+
+1608480340 source:f:\akostas\a_school\algorithms\exr\besttime2party\besttime2party.c
+	<stdio.h>
+	"genlib.h"
+	"simpio.h"
+
+1608737887 source:f:\akostas\a_school\diadikastikos_programatismos\c_lab\blank.c
+	<stdio.h>
+	<string.h>
+
+1609680005 source:f:\akostas\a_school\algorithms\exr\ball_maske\socialfriends.c
+	<stdio.h>
+	"genlib.h"
+
