@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614465865 source:f:\akostas\a_school\firstyear\secondsemester\datastructures\a1f1\a1f1.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

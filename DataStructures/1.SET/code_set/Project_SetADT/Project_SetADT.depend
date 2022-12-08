@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1298267164 source:c:\users\gia\dropbox\data_structures\notes\notes_compus2015\1_sets\code\adt-set\setadt.c
+	<stdio.h>
+	<stdlib.h>
+	"SetADT.h"
+
+1266763438 c:\users\gia\dropbox\data_structures\notes\notes_compus2015\1_sets\code\adt-set\setadt.h
+
+1267349562 source:c:\users\gia\dropbox\data_structures\notes\notes_compus2015\1_sets\code\project_setadt\testsetadt.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"SetADT.h"
+
+1511448379 source:c:\maya\courses\data_structures\c\notes\1_sets\code\adt-set\setadt.c
+	<stdio.h>
+	<stdlib.h>
+	"SetADT.h"
+
+1511448299 c:\maya\courses\data_structures\c\notes\1_sets\code\adt-set\setadt.h
+
+1511508668 source:c:\maya\courses\data_structures\c\notes\1_sets\code\project_setadt\testsetadt.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"SetADT.h"
+
+1511448379 source:c:\maya\courses\data_structures\notes-2017\1_sets\code\adt-set\setadt.c
+	<stdio.h>
+	<stdlib.h>
+	"SetADT.h"
+
+1511448299 c:\maya\courses\data_structures\notes-2017\1_sets\code\adt-set\setadt.h
+
+1511448379 source:c:\users\user\google drive\2017-2018\spring 2018\1_sets\code\adt-set\setadt.c
+	<stdio.h>
+	<stdlib.h>
+	"SetADT.h"
+
+1511448299 c:\users\user\google drive\2017-2018\spring 2018\1_sets\code\adt-set\setadt.h
+
+1511598039 source:c:\users\user\google drive\2017-2018\spring 2018\1_sets\code\project_setadt\testsetadt.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"SetADT.h"
+
+1513688799 source:c:\maya\courses\data_structures\c\notes-2017\1_sets\code\adt-set\setadt.c
+	<stdio.h>
+	<stdlib.h>
+	"SetADT.h"
+
+1511448299 c:\maya\courses\data_structures\c\notes-2017\1_sets\code\adt-set\setadt.h
+
+1513688799 source:g:\mayas\courses\data_structures\labs\lab_01\code\adt-set\setadt.c
+	<stdio.h>
+	<stdlib.h>
+	"SetADT.h"
+
+1511448299 g:\mayas\courses\data_structures\labs\lab_01\code\adt-set\setadt.h
+
+1549871782 source:g:\mayas\courses\data_structures\labs\lab_01\code\project_setadt\testsetadt.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"SetADT.h"
+
+1513688799 source:g:\mayas\courses\data_structures\3_labs\lab_01\code\adt-set\setadt.c
+	<stdio.h>
+	<stdlib.h>
+	"SetADT.h"
+
+1511448299 g:\mayas\courses\data_structures\3_labs\lab_01\code\adt-set\setadt.h
+

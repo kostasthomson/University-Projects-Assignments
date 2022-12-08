@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1328199322 source:c:\maya\courses\data_structures\c\notes\2_stacks\code\adt-stack\stfloatadt.c
+	<stdio.h>
+	"StFloatADT.h"
+
+1328199344 c:\maya\courses\data_structures\c\notes\2_stacks\code\adt-stack\stfloatadt.h
+
+1511510133 source:c:\maya\courses\data_structures\c\notes\2_stacks\code\project_evalprn\evalrpn.c
+	<stdio.h>
+	<stdlib.h>
+	"StFloatADT.h"
+
+1328199322 source:c:\maya\courses\data_structures\notes-2017\2_stacks\code\adt-stack\stfloatadt.c
+	<stdio.h>
+	"StFloatADT.h"
+
+1328199344 c:\maya\courses\data_structures\notes-2017\2_stacks\code\adt-stack\stfloatadt.h
+
+1511510133 source:c:\maya\courses\data_structures\notes-2017\2_stacks\code\project_evalprn\evalrpn.c
+	<stdio.h>
+	<stdlib.h>
+	"StFloatADT.h"
+

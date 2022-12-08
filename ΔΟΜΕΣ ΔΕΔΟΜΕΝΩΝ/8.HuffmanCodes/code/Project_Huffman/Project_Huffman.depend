@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1431861411 source:g:\courses\data_structures\notes -compus2015\5_trees\code\project_huffman\huffmandecoding.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1431885252 source:f:\mayas\courses\data_structures\notes-2019\5_trees\code\project_huffman\huffmandecoding.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1431885252 source:g:\mayas\courses\data_structures\notes-2019\5_trees\code\project_huffman\huffmandecoding.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1622471697 source:c:\maya\courses\data_structures\1_lectures\lecture_12\code\project_huffman\huffmandecoding.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

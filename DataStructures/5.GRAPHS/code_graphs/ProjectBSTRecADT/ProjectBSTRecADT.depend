@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1302454446 source:c:\users\gia\dropbox\data_structures\notes\notes_compus2015\5_trees\code\adt-trees\bstrecadt.c
+	<stdio.h>
+	<stdlib.h>
+	"BstRecADT.h"
+
+1302531246 c:\users\gia\dropbox\data_structures\notes\notes_compus2015\5_trees\code\adt-trees\bstrecadt.h
+
+1423038816 source:c:\users\gia\dropbox\data_structures\notes\notes_compus2015\5_trees\code\projectbstrecadt\testbstrecadt.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"BstRecADT.h"
+
+1302454446 source:c:\users\user\dropbox\data_structures\notes\notes_compus2015\5_trees\code\adt-trees\bstrecadt.c
+	<stdio.h>
+	<stdlib.h>
+	"BstRecADT.h"
+
+1302531246 c:\users\user\dropbox\data_structures\notes\notes_compus2015\5_trees\code\adt-trees\bstrecadt.h
+
+1423038816 source:c:\users\user\dropbox\data_structures\notes\notes_compus2015\5_trees\code\projectbstrecadt\testbstrecadt.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"BstRecADT.h"
+
+1618407288 source:c:\maya\courses\data_structures\1_lectures\lecture_08\code\adt-trees\bstrecadt.c
+	<stdio.h>
+	<stdlib.h>
+	"BstRecADT.h"
+
+1302527646 c:\maya\courses\data_structures\1_lectures\lecture_08\code\adt-trees\bstrecadt.h
+
+1618407462 source:c:\maya\courses\data_structures\1_lectures\lecture_08\code\projectbstrecadt\testbstrecadt.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"BstRecADT.h"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1328205392 source:c:\maya\courses\data_structures\c\notes\notes_compus2017\4_lists\code\adt-queue\queueadt.c
+	<stdio.h>
+	<stdlib.h>
+	"QueueADT.h"
+
+1328205354 c:\maya\courses\data_structures\c\notes\notes_compus2017\4_lists\code\adt-queue\queueadt.h
+
+1328205392 source:c:\maya\courses\data_structures\notes-2017\3_queues\code\adt-queue\queueadt.c
+	<stdio.h>
+	<stdlib.h>
+	"QueueADT.h"
+
+1328205354 c:\maya\courses\data_structures\notes-2017\3_queues\code\adt-queue\queueadt.h
+
+1511513037 source:c:\maya\courses\data_structures\notes-2017\3_queues\code\project_queueadt\testqueue.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"QueueADT.h"
+

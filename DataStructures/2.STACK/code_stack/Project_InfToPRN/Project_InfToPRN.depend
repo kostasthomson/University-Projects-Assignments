@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1511510723 source:c:\maya\courses\data_structures\c\notes\2_stacks\code\adt-stack\stchadt.c
+	<stdio.h>
+	"StChADT.h"
+
+1511510747 c:\maya\courses\data_structures\c\notes\2_stacks\code\adt-stack\stchadt.h
+
+1511510723 source:c:\maya\courses\data_structures\notes-2017\2_stacks\code\adt-stack\stchadt.c
+	<stdio.h>
+	"StChADT.h"
+
+1511510747 c:\maya\courses\data_structures\notes-2017\2_stacks\code\adt-stack\stchadt.h
+
+1511510723 source:c:\maya\courses\data_structures\notes-2019\2_stacks\code\adt-stack\stchadt.c
+	<stdio.h>
+	"StChADT.h"
+
+1511510747 c:\maya\courses\data_structures\notes-2019\2_stacks\code\adt-stack\stchadt.h
+
+1511510723 source:c:\maya\courses\data_structures\1_lectures\lecture_02\code\adt-stack\stchadt.c
+	<stdio.h>
+	"StChADT.h"
+
+1511510747 c:\maya\courses\data_structures\1_lectures\lecture_02\code\adt-stack\stchadt.h
+
+1614439456 source:c:\maya\courses\data_structures\1_lectures\lecture_02\code\project_inftoprn\inftorpn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StChADT.h"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1328206012 source:c:\maya\courses\data_structures\c\notes\notes_compus2017\4_lists\code\adt-stack\stackadt.c
+	<stdio.h>
+	<stdlib.h>
+	"StackADT.h"
+
+1328206012 c:\maya\courses\data_structures\c\notes\notes_compus2017\4_lists\code\adt-stack\stackadt.h
+
+1328206012 source:c:\maya\courses\data_structures\notes-2017\3_queues\code\adt-stack\stackadt.c
+	<stdio.h>
+	<stdlib.h>
+	"StackADT.h"
+
+1328206012 c:\maya\courses\data_structures\notes-2017\3_queues\code\adt-stack\stackadt.h
+
+1511513258 source:c:\maya\courses\data_structures\notes-2017\3_queues\code\project_stackadt\teststack.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"StackADT.h"
+

@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1431503821 source:h:\courses\data_structures\notes -compus2015\6_hashing\code\adt-hashchaining\hashlist.c
+	<stdio.h>
+	"HashList.h"
+
+1268586056 h:\courses\data_structures\notes -compus2015\6_hashing\code\adt-hashchaining\hashlist.h
+
+1423040159 source:h:\courses\data_structures\notes -compus2015\6_hashing\code\projech_hashadt\chaining.c
+	<stdio.h>
+	<ctype.h>
+	"HashList.h"
+
+1431503821 source:c:\maya\courses\data_structures\notes -compus2015\6_hashing\code\adt-hashchaining\hashlist.c
+	<stdio.h>
+	"HashList.h"
+
+1268582456 c:\maya\courses\data_structures\notes -compus2015\6_hashing\code\adt-hashchaining\hashlist.h
+
+1423036559 source:c:\maya\courses\data_structures\notes -compus2015\6_hashing\code\projech_hashadt\chaining.c
+	<stdio.h>
+	<ctype.h>
+	"HashList.h"
+
+1511472215 source:c:\maya\courses\data_structures\notes-2017\notes_compus2015\6_hashing\code\projech_hashadt\chaining.c
+	<stdio.h>
+	<ctype.h>
+	"HashList.h"
+
+1511471852 c:\maya\courses\data_structures\notes-2017\notes_compus2015\6_hashing\code\adt-hashchaining\hashlist.h
+
+1511472710 source:c:\maya\courses\data_structures\notes-2017\notes_compus2015\6_hashing\code\adt-hashchaining\hashlist.c
+	<stdio.h>
+	"HashList.h"
+
+1511472900 source:c:\maya\courses\data_structures\c\notes\notes_compus2017\6_hashing\code\adt-hashchaining\hashlist.c
+	<stdio.h>
+	"HashList.h"
+
+1511471852 c:\maya\courses\data_structures\c\notes\notes_compus2017\6_hashing\code\adt-hashchaining\hashlist.h
+
+1518009419 source:g:\mayas\courses\data_structures\notes-2019\6_hashing\code\projech_hashadt\chaining.c
+	<stdio.h>
+	<ctype.h>
+	"HashList.h"
+
+1518009033 g:\mayas\courses\data_structures\notes-2019\6_hashing\code\adt-hashchaining\hashlist.h
+
+1518010202 source:g:\mayas\courses\data_structures\notes-2019\6_hashing\code\adt-hashchaining\hashlist.c
+	<stdio.h>
+	"HashList.h"
+
+1557564220 source:c:\maya\courses\data_structures\1_lectures\lecture_09\code\adt-hashchaining\hashlist.c
+	<stdio.h>
+	"HashList.h"
+
+1518009033 c:\maya\courses\data_structures\1_lectures\lecture_09\code\adt-hashchaining\hashlist.h
+
+1518009419 source:c:\maya\courses\data_structures\1_lectures\lecture_09\code\projech_hashadt\chaining.c
+	<stdio.h>
+	<ctype.h>
+	"HashList.h"
+
+1619275159 source:c:\maya\courses\data_structures\1_lectures\lecture_10\code1\projech_hashadt\chaining.c
+	<stdio.h>
+	<ctype.h>
+	"HashList.h"
+
+1621002106 c:\maya\courses\data_structures\1_lectures\lecture_10\code1\adt-hashchaining\hashlist.h
+
+1621002061 source:c:\maya\courses\data_structures\1_lectures\lecture_10\code1\adt-hashchaining\hashlist.c
+	<stdio.h>
+	"HashList.h"
+
+1621002588 source:c:\maya\courses\data_structures\1_lectures\lecture_10\code\adt-hashchaining\hashlist.c
+	<stdio.h>
+	"HashList.h"
+
+1621090526 c:\maya\courses\data_structures\1_lectures\lecture_10\code\adt-hashchaining\hashlist.h
+
+1621002156 source:c:\maya\courses\data_structures\1_lectures\lecture_10\code\projech_hashadt\chaining.c
+	<stdio.h>
+	<ctype.h>
+	"HashList.h"
+

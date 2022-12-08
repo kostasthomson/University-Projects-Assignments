@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1366447422 source:c:\maya\courses\data_structures\c\notes\notes_compus2017\5_trees\code\adt-trees\heapadt.c
+	<stdio.h>
+	"HeapADT.h"
+
+1366447548 c:\maya\courses\data_structures\c\notes\notes_compus2017\5_trees\code\adt-trees\heapadt.h
+
+1366447422 source:c:\maya\courses\data_structures\1_lectures\lecture_09\adt-trees\heapadt.c
+	<stdio.h>
+	"HeapADT.h"
+
+1366447548 c:\maya\courses\data_structures\1_lectures\lecture_09\adt-trees\heapadt.h
+
+1511517644 source:c:\maya\courses\data_structures\1_lectures\lecture_09\project_heapadt\testheap.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"HeapADT.h"
+
+1620538934 source:c:\maya\courses\data_structures\1_lectures\lecture_09\code\adt-trees\heapadt.c
+	<stdio.h>
+	"HeapADT.h"
+
+1366447548 c:\maya\courses\data_structures\1_lectures\lecture_09\code\adt-trees\heapadt.h
+
+1619426979 source:c:\maya\courses\data_structures\1_lectures\lecture_09\code\project_heapadt\testheap.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"HeapADT.h"
+

@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1268409374 source:c:\maya\courses\data_structures\c\notes\notes_compus2017\4_lists\code\adt-list\listadt.c
+	<stdio.h>
+	<stdlib.h>
+	"ListADT.h"
+
+1268409380 c:\maya\courses\data_structures\c\notes\notes_compus2017\4_lists\code\adt-list\listadt.h
+
+1511512653 source:c:\maya\courses\data_structures\c\notes\notes_compus2017\4_lists\code\project_listadt\testlist.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ListADT.h"
+
+1511512758 source:c:\maya\courses\data_structures\notes-2017\3_queues\code\adt-list\listadt.c
+	<stdio.h>
+	<stdlib.h>
+	"ListADT.h"
+
+1268409380 c:\maya\courses\data_structures\notes-2017\3_queues\code\adt-list\listadt.h
+
+1511512758 source:c:\users\user\dropbox\data_structures\notes-2017\4_lists\code\adt-list\listadt.c
+	<stdio.h>
+	<stdlib.h>
+	"ListADT.h"
+
+1268409380 c:\users\user\dropbox\data_structures\notes-2017\4_lists\code\adt-list\listadt.h
+
+1511601158 source:c:\users\user\dropbox\data_structures\notes-2017\4_lists\code\project_listadt\testlist.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ListADT.h"
+
+1511512758 source:c:\maya\courses\data_structures\1_lectures\lecture_04\code\adt-list\listadt.c
+	<stdio.h>
+	<stdlib.h>
+	"ListADT.h"
+
+1268409380 c:\maya\courses\data_structures\1_lectures\lecture_04\code\adt-list\listadt.h
+
+1520853797 source:c:\maya\courses\data_structures\1_lectures\lecture_04\code\project_listadt\testlist.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ListADT.h"
+

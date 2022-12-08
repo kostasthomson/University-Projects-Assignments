@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1300720700 source:g:\courses\data_structures\notes -compus2014\4_lists\code\adt-list\listpadt.c
+	<stdio.h>
+	<stdlib.h>
+	"ListPADT.h"
+
+1269172678 g:\courses\data_structures\notes -compus2014\4_lists\code\adt-list\listpadt.h
+
+1300721068 source:g:\courses\data_structures\notes -compus2014\4_lists\code\project_listpadt\testplist.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"ListPADT.h"
+
+1300720700 source:c:\maya\courses\data_structures\notes-2017\notes_compus2015\4_lists\code\adt-list\listpadt.c
+	<stdio.h>
+	<stdlib.h>
+	"ListPADT.h"
+
+1269172678 c:\maya\courses\data_structures\notes-2017\notes_compus2015\4_lists\code\adt-list\listpadt.h
+
+1511456414 source:c:\maya\courses\data_structures\notes-2017\notes_compus2015\4_lists\code\project_listpadt\testplist.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"ListPADT.h"
+
+1511456518 source:c:\maya\courses\data_structures\c\notes\notes_compus2017\4_lists\code\adt-list\listpadt.c
+	<stdio.h>
+	<stdlib.h>
+	"ListPADT.h"
+
+1269172678 c:\maya\courses\data_structures\c\notes\notes_compus2017\4_lists\code\adt-list\listpadt.h
+
+1511456518 source:c:\maya\courses\data_structures\notes-2017\3_queues\code\adt-list\listpadt.c
+	<stdio.h>
+	<stdlib.h>
+	"ListPADT.h"
+
+1269172678 c:\maya\courses\data_structures\notes-2017\3_queues\code\adt-list\listpadt.h
+
+1511601293 source:c:\maya\courses\data_structures\notes-2017\3_queues\code\project_listpadt\testplist.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"ListPADT.h"
+
+1616529328 source:g:\Το drive μου\2020-2021\spring 2021\ds\lecture 05\adt-list\listpadt.c
+	<stdio.h>
+	<stdlib.h>
+	"ListPADT.h"
+
+1616529288 g:\Το drive μου\2020-2021\spring 2021\ds\lecture 05\adt-list\listpadt.h
+
+1616529664 source:g:\Το drive μου\2020-2021\spring 2021\ds\lecture 05\project_listpadt\testplist.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"ListPADT.h"
+
+1616651027 source:c:\maya\courses\data_structures\1_lectures\lecture_05\code\adt-list\listpadt.c
+	<stdio.h>
+	<stdlib.h>
+	"ListPADT.h"
+
+1616496888 c:\maya\courses\data_structures\1_lectures\lecture_05\code\adt-list\listpadt.h
+
+1616650852 source:c:\maya\courses\data_structures\1_lectures\lecture_05\code\project_listpadt\testplist.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ListPADT.h"
+

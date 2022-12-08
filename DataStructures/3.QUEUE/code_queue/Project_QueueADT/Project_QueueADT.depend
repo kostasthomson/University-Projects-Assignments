@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1615023838 source:c:\maya\courses\data_structures\1_lectures\lecture_03\code\adt-queue\queueadt.c
+	<stdio.h>
+	"QueueADT.h"
+
+1520678994 c:\maya\courses\data_structures\1_lectures\lecture_03\code\adt-queue\queueadt.h
+
+1302023464 source:c:\maya\courses\data_structures\1_lectures\lecture_03\code\project_queueadt\testqueue.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"QueueADT.h"
+

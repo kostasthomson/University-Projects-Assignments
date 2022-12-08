@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1395579060 source:g:\courses\data_structures\notes -compus2014\4_lists\code\adt-list\l_listadt.c
+	<stdio.h>
+	"L_ListADT.h"
+
+1362417182 g:\courses\data_structures\notes -compus2014\4_lists\code\adt-list\l_listadt.h
+	<stdio.h>
+	<stdlib.h>
+
+1362425424 source:g:\courses\data_structures\notes -compus2014\4_lists\code\project_l_list\testl_list.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"L_ListADT.h"
+
+1511450654 source:c:\maya\courses\data_structures\notes-2017\notes_compus2015\4_lists\code\adt-list\l_listadt.c
+	<stdio.h>
+	"L_ListADT.h"
+
+1511450389 c:\maya\courses\data_structures\notes-2017\notes_compus2015\4_lists\code\adt-list\l_listadt.h
+	<stdio.h>
+	<stdlib.h>
+
+1511451014 source:c:\maya\courses\data_structures\notes-2017\notes_compus2015\4_lists\code\project_l_list\testl_list.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"L_ListADT.h"
+
+1511453000 source:c:\maya\courses\data_structures\notes-2017\3_queues\code\adt-list\l_listadt.c
+	<stdio.h>
+	"L_ListADT.h"
+
+1511450389 c:\maya\courses\data_structures\notes-2017\3_queues\code\adt-list\l_listadt.h
+	<stdio.h>
+	<stdlib.h>
+
+1511600591 source:c:\users\user\google drive\2017-2018\spring 2018\4_lists\code\project_l_list\testl_list.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"L_ListADT.h"
+
+1511450389 c:\users\user\google drive\2017-2018\spring 2018\4_lists\code\adt-list\l_listadt.h
+	<stdio.h>
+	<stdlib.h>
+
+1515501943 source:g:\mayas\courses\data_structures\notes-2019\4_lists\code\adt-list\l_listadt.c
+	<stdio.h>
+	"L_ListADT.h"
+
+1511450389 g:\mayas\courses\data_structures\notes-2019\4_lists\code\adt-list\l_listadt.h
+	<stdio.h>
+	<stdlib.h>
+
+1511600591 source:g:\mayas\courses\data_structures\notes-2019\4_lists\code\project_l_list\testl_list.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"L_ListADT.h"
+
+1616322632 source:c:\maya\courses\data_structures\1_lectures\lecture_04\code\project_l_list\testl_list.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"L_ListADT.h"
+
+1616322574 c:\maya\courses\data_structures\1_lectures\lecture_04\code\adt-list\l_listadt.h
+	<stdio.h>
+	<stdlib.h>
+

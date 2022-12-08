@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1301850440 source:c:\users\user\dropbox\data_structures\notes\notes_compus2015\5_trees\code\adt-trees\bstadt.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	"BstADT.h"
+
+1265559518 c:\users\user\dropbox\data_structures\notes\notes_compus2015\5_trees\code\adt-trees\bstadt.h
+
+1265477696 source:c:\users\user\dropbox\data_structures\notes\notes_compus2015\5_trees\code\project_bstadt\testbstadt.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"BstADT.h"
+
+1301846840 source:c:\maya\courses\data_structures\c\notes\notes_compus2017\5_trees\code\adt-trees\bstadt.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	"BstADT.h"
+
+1265555918 c:\maya\courses\data_structures\c\notes\notes_compus2017\5_trees\code\adt-trees\bstadt.h
+
+1301846840 source:c:\maya\courses\data_structures\1_lectures\lecture_07\adt-trees\bstadt.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	"BstADT.h"
+
+1265559518 c:\maya\courses\data_structures\1_lectures\lecture_07\adt-trees\bstadt.h
+
+1618040584 source:c:\maya\courses\data_structures\1_lectures\lecture_07\project_bstadt\testbstadt.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"BstADT.h"
+
+1618040584 source:c:\maya\courses\data_structures\1_lectures\lecture_07\code\project_bstadt\testbstadt.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"BstADT.h"
+
+1618486853 c:\maya\courses\data_structures\1_lectures\lecture_07\code\adt-trees\bstadt.h
+
+1618114849 source:c:\maya\courses\data_structures\1_lectures\lecture_07\code\adt-trees\bstadt.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	"BstADT.h"
+

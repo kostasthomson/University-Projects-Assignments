@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615024012 source:c:\maya\courses\data_structures\1_lectures\lecture_03\code\adt-queue\qprobadt.c
+	<stdio.h>
+	"QProbADT.h"
+
+1328201024 c:\maya\courses\data_structures\1_lectures\lecture_03\code\adt-queue\qprobadt.h
+

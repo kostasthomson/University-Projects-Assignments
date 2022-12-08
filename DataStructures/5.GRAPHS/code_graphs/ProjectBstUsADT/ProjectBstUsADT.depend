@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1302451136 source:c:\maya\courses\data_structures\1_lectures\lecture_08\code\adt-trees\bstusadt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BstUsADT.h"
+
+1302528016 c:\maya\courses\data_structures\1_lectures\lecture_08\code\adt-trees\bstusadt.h
+
+1618407814 source:c:\maya\courses\data_structures\1_lectures\lecture_07\code\projectbstusadt\valusers.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BstUsADT.h"
+
+1302528016 c:\maya\courses\data_structures\1_lectures\lecture_07\code\adt-trees\bstusadt.h
+
+1618408128 source:c:\maya\courses\data_structures\1_lectures\lecture_07\code\adt-trees\bstusadt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BstUsADT.h"
+

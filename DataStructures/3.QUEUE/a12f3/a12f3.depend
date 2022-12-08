@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616620386 source:f:\akostas\a_school\firstyear\secondsemester\datastructures\queue\a12f3\a12f3.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

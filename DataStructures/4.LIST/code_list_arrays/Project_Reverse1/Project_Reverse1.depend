@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1511453461 source:c:\maya\courses\data_structures\c\notes\notes_compus2017\4_lists\code\adt-list\l_listchadt.c
+	<stdio.h>
+	"L_ListChADT.h"
+
+1511452679 c:\maya\courses\data_structures\c\notes\notes_compus2017\4_lists\code\adt-list\l_listchadt.h
+	<stdio.h>
+	<stdlib.h>
+
+1616322829 source:c:\maya\courses\data_structures\1_lectures\lecture_04\code\project_reverse1\reverse1.c
+	<stdio.h>
+	"L_ListChADT.h"
+
+1616325705 c:\maya\courses\data_structures\1_lectures\lecture_04\code\adt-list\l_listchadt.h
+	<stdio.h>
+	<stdlib.h>
+
+1616324919 source:c:\maya\courses\data_structures\1_lectures\lecture_04\code\adt-list\l_listchadt.c
+	<stdio.h>
+	"L_ListChADT.h"
+
